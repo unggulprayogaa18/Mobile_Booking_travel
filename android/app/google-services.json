@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730951847317",
+    "project_id": "puputunggulprayoga",
+    "storage_bucket": "puputunggulprayoga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730951847317:android:14a765530a04cabf6cfa9c",
+        "android_client_info": {
+          "package_name": "com.example.uts_hotel_puputunggulprayoga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvZ-yLe9T7aurGMbcSr1yLmRgWZVByyOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
